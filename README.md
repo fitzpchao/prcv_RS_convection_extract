@@ -1,0 +1,3 @@
+# prcv_RS_convection_extract
+第一届prcv遥感资料天气信息提取技术挑战赛第一名，对流区域提取任务解决方案
+kreas+tensorflow实现
